@@ -10,7 +10,7 @@
 
 📄 &nbsp;You can have a look at my  [Resume](https://drive.google.com/file/d/11z-XnTxhDCgbd3m_xNxT1IGsDnjpbZT_/view?usp=sharing) for more details about me. 
 
-<img alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47odvleykto9li60z8ug2lfrk52c4ibphnj2posuge&rid=giphy.gif" align="right" width="250"/>
+<img alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47odvleykto9li60z8ug2lfrk52c4ibphnj2posuge&rid=giphy.gif" align="right" width="350"/>
 
 ### 🛠 &nbsp;Tech Stack
 
