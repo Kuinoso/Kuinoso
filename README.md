@@ -4,7 +4,7 @@
 
 💡 &nbsp;I love creating solutions for different obstacles or situations, analysis is one of my key skills!
 
-🌱 &nbsp;I am constantly lerning new libraries, frameworks and technologies! Evolution is crucial.
+🌱 &nbsp;I am constantly learning new libraries, frameworks and technologies! Evolution is crucial.
 
 :book: &nbsp;In my free time a good book is always the answer, diving deep into the words!
 
