@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I love creating solutions for different obstacles or situations, analysis is one of my key skills!
+💡 &nbsp;I love creating solutions for different obstacles or situations, creative and smart executions!
 
 🌱 &nbsp;I am constantly learning new libraries, frameworks and technologies! Evolution is crucial.
 
-:book: &nbsp;In my free time a good book is always the answer, diving deep into the words!
+:book: &nbsp;In my free time a good book is always the answer, diving deep into new words!
 
 📄 &nbsp;You can have a look at my  [portfolio](https://portfolio-lemon-mu.vercel.app/) for more details about me. 
 
