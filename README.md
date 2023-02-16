@@ -36,5 +36,5 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-kuinoso-cifuentes-916634161/"><img src="https://img.shields.io/badge/-Leonardo%20Kuinoso%20Cifuentes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:cifuentes.k.l@gmail.com"><img src="https://img.shields.io/badge/-cifuentes.k.l@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kuinoso.leonardo@gmail.com"><img src="https://img.shields.io/badge/-cifuentes.k.l@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
